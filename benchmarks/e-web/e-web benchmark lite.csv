@@ -1,0 +1,134 @@
+Essential Operations,Skill Category,Skill Type,No. of Skills,Prerequisites,Prompt,Website,Tool Type
+"Create, Read, Update",Compound,"Search Box, Text Fields, Dropdown Menus, Date Pickers, Buttons",6,Dummy data loaded into environment via Data Loader.,"Create a new opportunity in Salesforce for the account ‘Acme Corporation’. Use ‘John Doe’ as the primary contact. The opportunity should be for the ‘GC1000 series’ product, valued at $100,000, with a close date of December 31, 2024. Set the stage to ‘Proposal/Price Quote’. ",Salesforce,CRM
+"Read, Update",Compound,"Search Box, Dropdown Menus, Text Fields, Date Picker, Buttons",5,Dummy data loaded into environment via Data Loader.,"“Update the opportunity for ‘Sophia Martinez’ at ‘Alpha Tech’ to the ‘Negotiation/Review’ stage. Set the expected close date to November 30, 2024, and the opportunity value to $85,000.”
+",Salesforce,CRM
+"Create, Read, Update",Compound,"Search Box, Text Fields, Dropdown Menus, Date Pickers, Buttons",5,Dummy data loaded into environment via Data Loader.,"Create a new opportunity in Salesforce for ‘Epsilon Services’ with the primary contact ‘James Wilson’. The opportunity is for the ‘GC1000 series’ product with a value of $60,000. Set the stage to ‘Proposal/Price Quote’ and the expected close date to January 15, 2025",Salesforce,CRM
+"Read, Update",Compound,"Text Fields, Dropdown Menus, Buttons",3,Dummy data loaded into environment via Data Loader.,"Adjust the probability of closing for the opportunity at ‘Gamma Corp.’ (contact: ‘Linda Taylor’) to 70%. The opportunity is for the ‘GC5000 series’, currently in the ‘Negotiation’ stage",Salesforce,CRM
+"Read, Update",Compound,"Buttons, Dropdown Menus, Text Fields, Search Box",4,Dummy data loaded into environment via Data Loader.,"In Salesforce, update the contact information for ‘Michael Brown’ at ‘Future Tech Solutions’. Set his new phone number to 123-456-7891 and his email to michael.brown@futuretech.fake.",Salesforce,CRM
+"Create, Read, Update",Compound,"Buttons, Text Fields",2,Dummy data loaded into environment via Data Loader.,"Add a new contact in Salesforce for ‘Zeta Ventures’. The contact’s name is ‘William King’, and his title is ‘Chief Financial Officer’. Set his phone number to 555-987-6543 and email to william.king@zeta.fake.",Salesforce,CRM
+"Read, Update",Compound,"Dropdown Menus, Buttons, Text Fields, Search Box",4,Dummy data loaded into environment via Data Loader.,"Go to Salesforce, update the annual revenue for the account ‘Beta Solutions’ to $7,000,000 and change their industry to ‘Software Development’",Salesforce,CRM
+"Create, Read, Update",Compound,"Buttons, Text Fields, Dropdown Menus",3,Dummy data loaded into environment via Data Loader.,"Create a new lead in Salesforce.
+
+Name: Taylor Morgan
+
+Company: Biotech Solutions
+
+Title: Senior Project Manager
+
+Annual Revenue: $2,500,000
+
+Phone: (555) 123-4567
+
+Mobile: (555) 234-5678
+
+Fax: (555) 345-6789
+
+Email: taylor.morgan@bios.fake
+
+Address: 123 Innovation Drive, Techville, CA, United States
+Zip/Postal Code: 90001
+
+This lead has not been contacted yet. Set the status accordingly.",Salesforce,CRM
+"Create, Read, Update",Compound,"Buttons, Dropdown Menus, Text Fields, Date Pickers",4,Dummy data loaded into environment via Data Loader.,"Log  a call in Salesforce for Taylor Morgan dated November 13th, 2024 with the following comment: Send follow up email. Change the status to Working - Contacted and create a new task to send an email on 30th November, 2024.",Salesforce,CRM
+"Create, Read, Update",Compound,"Checkboxes, Dropdown Menus, Buttons, Date Pickers",4,Dummy data loaded into environment via Data Loader.,"Go to Salesforce, mark the email task for Taylor Morgan as complete and schedule an all-day follow-up meeting on December 5, 2024. ",Salesforce,CRM
+"Create, Read, Update",Compound,"Buttons, Radio Buttons, Dropdown Menus, Text Fields",4,Dummy data loaded into environment via Data Loader.,"Convert Taylor Morgan to a contact. Create a new account and opportunity, both named Biotech Solutions. Update the opportunity with the following values:
+
+Stage: Value Proposition
+Products: GC1060 (10 Qty), GC1040 (15 Qty)",Salesforce,CRM
+"Create, Read, Update",Compound,"Search Box, Text Fields, Dropdown Menus, Date Pickers, Buttons",5,Dummy data loaded into environment via Data Loader.,"Create new opportunities in Salesforce for the following accounts:
+
+	•	‘Acme Corporation’, contact: ‘John Doe’, opportunity value: $150,000, product: ‘GC5000 series’, stage: ‘Qualification’, close date: April 15, 2025.
+	•	‘Future Tech Solutions’, contact: ‘Michael Brown’, opportunity value: $200,000, product: ‘GC1000 series’, stage: ‘Prospecting’, close date: May 30, 2025.
+	•	‘Global Enterprises’, contact: ‘Jane Smith’, opportunity value: $250,000, product: ‘GC3000 series’, stage: ‘Proposal/Price Quote’, close date: June 10, 2025.”",Salesforce,CRM
+"Read, Update",Compound,"Buttons, Text Fields, Dropdown Menus",3,Dummy data loaded into environment via Data Loader.,"Update the email addresses for the following contacts in Salesforce:
+
+	•	‘John Doe’ at ‘Acme Corporation’, new email: john.doe@acme.fake1.
+	•	‘Emma Anderson’ at ‘Delta Partners’, new email: emma.anderson@delta.fake1.
+	•	‘James Wilson’ at ‘Epsilon Services’, new email: james.wilson@epsilon.fake1.”",Salesforce,CRM
+"Read, Update",Compound,"Dropdown Menus, Text Fields, Buttons, Search Box",4,Dummy data loaded into environment via Data Loader.,"Update the industry and annual revenue for the following accounts in Salesforce:
+
+	•	‘Future Tech Solutions’, industry: ‘Cloud Services’, revenue: $9,500,000.
+	•	‘Global Enterprises’, industry: ‘Cybersecurity’, revenue: $25,000,000.
+	•	‘Lambda Enterprises’, industry: ‘E-commerce’, revenue: $15,000,000.”",Salesforce,CRM
+"Create, Read, Update",Compound,"Text Fields, Buttons, Search Box, Dropdown Menus",4,Dummy data loaded into environment via Data Loader.,"Add new contacts for the following accounts in Salesforce:
+
+	•	‘Gamma Corp.’, contact: ‘Sarah Blake’, title: ‘Chief Marketing Officer’, phone: 555-123-9876, email: sarah.blake@gamma.fake.
+	•	‘Beta Solutions’, contact: ‘Oliver Stone’, title: ‘Sales Director’, phone: 555-456-7890, email: oliver.stone@beta.fake.
+	•	‘Kappa Technologies’, contact: ‘Isabella Knight’, title: ‘Operations Manager’, phone: 555-321-6543, email: isabella.knight@kappa.fake.”",Salesforce,CRM
+"Create, Read, Update",Compound,"Text fields, Dropdown Menus, Date Pickers, Nested Menus",4,,"Create a JIRA dashboard for the project “AI Agent.” Add widgets for issue tracking, team workload distribution, and time spent on tasks. Set up filters based on issue priority and due date. Ensure the dashboard auto-refreshes every hour.",JIRA,Project Management
+"Create, Read, Update",Compound,"Text fields, Pop-ups, Dropdown Menus, Date Pickers",4,,Set up a new workflow in JIRA for the “Customer Support” project. The workflow should move issues from “Pending Customer Response” to “Closed” if no response is received in 5 days. Send automated email notifications when the status changes to “Closed.”,JIRA,Project Management
+"Create, Read, Update",Compound,"Text Fields, Dropdown Menus, Nested Menus, Date Pickers , Sliders",5,,Create a new issue type called “Technical Debt” for the “AI Agent” project. Set the timeline to start tommorow and end on december 3rd. Add custom fields for “Impact Score” and “Estimated Recovery Time.” Set up an automation that re-prioritizes all “Technical Debt” issues every Friday,JIRA,Project Management
+"Create, Read, Update",Compound,"Dropdown Menus, Text Fields, Drag Drop and Reorder , sliders
+",4,,"For the “AI Agent” project, create a new epic titled “Marketing Plan”, set the timeline to have no start date and an end date of 22nd december,  and add three sub-tasks: “Develop Social Media Strategy,” “Design Ads,” and “Track Campaign Metrics.",JIRA,Project Management
+"Create, Read",Compound,"Date Pickers, File Upload, Pop-ups",3,,Schedule a company-wide “All Hands” meeting for the first Monday of next month at 10:00 AM. Attach the agenda and previous meeting’s minutes. Enable automatic notifications 15 minutes before the meeting.,Teams,Collaboration and Communication
+"Create, Read",Compound,"Date Pickers, File Upload, Pop-ups",3,,"Organize a meeting for the “finance” team to discuss the upcoming release. Attach the product roadmap, set the meeting to 2 hours, and enable reminders 30 minutes before the start",Teams,Collaboration and Communication
+"Create, Update",Compound,"Dropdown Menus, Text Fields, Date Pickers, Drag Drop and Reorder, Buttons",5,,"Plan a meeting named 'Budget Planning' in Microsoft Teams for October 22nd at 4 PM. After it's established, move the meeting to October 29th at 5 PM.",Teams,Collaboration and Communication
+"Create, Update",Compound,"Dropdown Menus, Text Fields, Date Pickers, Search Box, Buttons",5,,"Create a new task titled 'Implement User Profile Feature' within the AI Agent project, setting the Priority to Critical. Set the Due Date for February 15, 2025, and include the following in the description: requirements for user authentication, data storage compliance (GDPR), and user interface mockups. Add labels for User Profile, Urgent, and Feature, and link this task to the Epic titled 'User Management Improvements'.",JIRA,Project Management
+"Create, Update",Compound,"Dropdown Menus, Text Fields, Date Pickers, Buttons",4,,"Create a new calendar event in Microsoft Teams for a team-building activity titled 'Q4 Team Retreat' scheduled for November 5, 2024, from 9:00 AM to 4:00 PM. In the event details, include a brief agenda:
+Team-building exercises
+Lunch Break
+Feedback session",Teams,Collaboration and Communication
+"Create, Update",Compound,"Search Box, Dropdown Menus, Text Fields, Date Pickers, Buttons",5,,"Create a new Bug in the AI Agent project titled 'User Profile Loading Error'. Description: Users encounter an error when loading their profiles. Set the Priority to High and the Due Date for November 15, 2024. Click Create",JIRA,Project Management
+"Create, Update",Compound,"Search Box, Dropdown Menus, Text Fields, Date Pickers, Buttons",5,,"Create a new Task in the AI Agent project titled 'Enhance Search Functionality'. Description: Improve the search feature to include advanced filtering options. Set the Priority to Medium and the Due Date for November 20, 2024.",JIRA,Project Management
+"Create, Update",Compound,"Text Fields, Date Pickers, Dropdown Menus, Radio Buttons, Toggle Switches, Buttons",6,,"Schedule a webinar titled 'Future of AI in Business' for March 10, 2025, at 2 PM. Set the duration to 1 hour and configure it to allow attendees to join via phone. Disable the Q&A feature. Enable registration and set it to Your Organization access.",Teams,Collaboration and Communication
+"Create, Update",Compound,"Text Fields, Buttons",2,Env with creds,Log into Google Forms and create a new form. Title it 'Feedback Form' and add a brief description. Verify that the form is created successfully.,Google Forms,Online Survey and Data Collection
+"Create, Update",Compound,"Text Fields, Dropdown Menus, Buttons",4,,"In the 'Feedback Form,' add at least three different question ""In the 'Feedback Form,' add at least three different question types (e.g., multiple choice, short answer, and checkbox). Ensure each question is correctly configured.""
+Questions:
+Multiple Choice: ""How satisfied are you with our service?""
+Options: Very Satisfied, Satisfied, Neutral, Unsatisfied, Very Unsatisfied
+Short Answer: ""What did you like most about our service?""
+Checkbox: ""Which features did you use? (Select all that apply)""
+Options: Feature A, Feature B, Feature C, Feature Dtypes (e.g., multiple choice, short answer, and checkbox). Make two of the questions required and change the theme of the form by selecting a different color or image. Verify that the changes are reflected in the preview and that required questions prompt for answers before submission.",Google Forms,Online Survey and Data Collection
+"Create, Update",Compound,"Text Fields, Buttons",2,,"Go to Asana and create a new project titled ""Marketing Campaign 2024'"".",Asana,Project Management
+"Create, Update",Compound,"Text Fields, Date Pickers, Buttons",3,,"In the ""Marketing Campaign 2024"" project, add the following issues: ""Design Social Media Graphics"" with a deadline of November 15, 2024; ""Write Blog Post"" with a deadline of November 20, 2024; ""Plan Email Newsletter"" with a deadline of November 25, 2024; and ""Launch Ad Campaign"" with a deadline of December 1, 2024.",Asana,Project Management
+"Create, Update",Compound,"Text Fields, Dropdown Menus, Buttons",3,,"Go to Asana and create a new portfolio titled ""2025 Project Portfolio."" Set the portfolio to private, ensuring that only portfolio members have access.",Asana,Project Management
+Create,Compound,"Text Fields, Buttons",2,,"Create a new board in Miro titled ""Creative Solutions Summit.""",Miro,Visual Collaboration and Whiteboarding
+"Create, Update",Compound,"Text Fields, Buttons, Drag Drop and Reorder",2,,"Add four sticky notes with the following ideas, making sure to use different colored notes:
+Brainstorming session for innovative marketing strategies.
+Ideas for enhancing product features.
+Discussion on customer feedback implementation.
+Planning a team-building activity.",Miro,Visual Collaboration and Whiteboarding
+"Create, Update",Compound,"Text Fields, Nested Menus, Buttons",3,,"Create an agenda in notes with these dates:
+Kickoff Meeting: November 3
+Brainstorming Session: November 10
+Feedback Review: November 17
+Final Presentation: November 24",Miro,Visual Collaboration and Whiteboarding
+Create,Compound,"Drag Drop and Reorder, Date Pickers, Text Fields",3,,"Create a new board for ""2025 Marketing Campaign"" and add lists for ""To Do,"" ""In Progress,"" and ""Completed."" Add cards under ""To Do"" for each marketing channel, set due dates, and assign them to team members",Trello,Project Management
+Create,Compound,"Date Pickers, Checkboxes, Text Fields",3,,"Create a new card on the ""Product Launch"" board titled ""Finalize Product Packaging."" Set a due date, add a checklist, and enable reminders 24 hours before the deadline.",Trello,Project Management
+"Create, Read",Compound,"File Upload, Toggle Switches, Pop-ups",3,,"Set up a shared Google Drive folder for ""2025 Product Launch Materials"" and allow team members to upload assets. Enable version history and notifications for every new file upload",Google Drive,Cloud Storage and File Sharing
+"Create, Read",Compound,"Date Pickers, Dropdown Menus, Toggle Switches",3,,"Schedule a meeting titled ""2025 Budget Planning"" for January 15, 2025, at 10 AM. Set a reminder 1 hour before, enable video conferencing, and invite the finance team",Google Calendar,Collaboration and Communication
+"Create, Read",Compound,"Date Pickers, File Upload, Dropdown Menus",3,,"Create a new calendar event for ""Client Presentation"" on December 12, 2024, at 2 PM. Attach the presentation file and set the event to repeat annually",Google Calendar,Collaboration and Communication
+"Create, Read",Compound,"Date Pickers, File Upload, Dropdown Menus",3,,"Create a ""2025 Strategy Session"" calendar event on January 10, 2025, and invite the executive team. Attach the strategy document and set the event to repeat yearly",Google Calendar,Collaboration and Communication
+"Create, Read",Compound,"Date Pickers, File Upload, Pop-ups
+
+",3,,"Set a calendar reminder titled ""Client Follow-Up"" for December 18, 2024, at 3 PM. Attach the client contract and set a notification 1 hour before the event",Google Calendar,Collaboration and Communication
+Create,Compound,"Nested Menus, Dropdown Menus, Checkboxes, Sliders",4,,"Establish a signing order with conditional requirements, ensuring one stage is approved before advancing. Add notifications and visibility controls to maintain document security.",Docusign,Digital Transaction Management
+Create,Compound,"Radio Buttons, Checkboxes, Autocomplete, Text Fields, Pop-ups",5,,"Initiate a poll in a designated channel, allowing anonymous responses and tagging specific groups. Set reminders for poll closure and adjust visibility according to role.",Slack,Collaboration and Communication
+"Create, Update",Compound,"Nested Menus, Dropdown Menus, Buttons",3,,Create a macro in Zendesk called “Shipping Delay Response” that inserts a predefined message apologizing for shipping delays and provides standard information about expected resolution times. Set up an automation that sends this macro response to any ticket tagged with “shipping_delay” if the ticket has been open for more than 2 hours without a response.,Zendesk,Customer Support
+Update,Compound,"Nested Menus, Text Fields, Radio Buttons, Buttons",4,,"Add a custom ticket field called “Order Number” in Zendesk, making it a required field for any ticket submitted through the web form. Ensure that this field is visible to agents and included in ticket notifications.",Zendesk,Customer Support
+Create,Compound,"Nested Menus, Radio Buttons, Text Fields, Buttons",4,,"In Slack, create a new channel titled 'Daily Updates'. Set it to private.",Slack,Collaboration and Communication
+Update,Compound,"Nested Menus, Checkboxes, Dropdown Menus, Buttons",4,,"In Slack, customize my status to indicate that I'm away from your desk for the next 30 minutes. Set an appropriate emoji to reflect my status, and pause notifications for the same duration.",Slack,Collaboration and Communication
+Update,Compound,"Dropdown Menus, Nested Menus, Toggle Switches, Radio Buttons",4,,"In Asana, navigate to the settings and disable the following notifications:
+
+Project Notifications: Status updates, Messages, and Tasks added.
+Portfolio Notifications: Status updates and Messages.
+For Email Notifications, enable 'Only when mentioned' and disable both Daily summaries and Overdue tasks summary.",Asana,Project Management
+Update,Compound,"Dropdown Menus, Nested Menus, Checkboxes, Buttons",4,,"Go to the Do Not Disturb section in Asana's settings.
+
+Pause notifications until tomorrow.
+Set Do not notify me from 12 PM to 6 PM on Wednesday to Friday.",Asana,Project Management
+Create,Compound,"Buttons, Pop-Ups, Text Fields, Nested Menus, Radio Buttons",5,,"Create a new board in Miro, name it 'Team Prospects,' and change the background color to grey.",Miro,Visual Collaboration and Whiteboarding
+Update,Compound,"Dropdown Menus, Nested menus, Radio Buttons, Toggle Switches",4,,"In the 'Team Prospects' board, navigate to the main menu, go to the 'View' section, and change the grid style to 'None.' Then, disable the comments and undo/redo controls on the board.",Miro,Visual Collaboration and Whiteboarding
+Update,Compound,"Dropdown Menus, Nested menus, Radio Buttons, Toggle Switches",4,,"In the 'Team Prospects' board, navigate to the main menu, go to the 'View' section, and change the grid style to 'Dot Grid.' Then, disable the comments and scroll bars on the board.",Miro,Visual Collaboration and Whiteboarding
+Update,Compound,"Dropdown Menus, Nested menus, Radio Buttons, Toggle Switches",4,,"In the 'Team Prospects' board, navigate to the main menu, go to the 'Preferences' section, and select 'Mouse.' Then, disable the 'Align Objects' option.",Miro,Visual Collaboration and Whiteboarding
+Update,Compound,"Dropdown Menus, Nested menus, Radio Buttons, Toggle Switches",4,,"In the 'Team Prospects' board, navigate to the main menu, go to the 'Preferences' section, and select 'Trackpad.' Then, disable the 'Follow All Threads' option.",Miro,Visual Collaboration and Whiteboarding
+"Create, Update",Compound,"Text Fields, Nested Menus, Toggle Switches",3,,"Create a feedback form in Microsoft Forms and name it 'Team Feedback.' Add all the recommended questions that Microsoft Forms shows by default. Then, in the 'Style' section, enable background music.",Microsoft Forms,Productivity Suite
+Update,Compound,"Nested Menus, Radio Buttons, Checkboxes",3,,"In the 'Team Feedback' form, go to the 'Settings' section. Under 'Who can fill out this form,' select 'Anyone can respond.' Then, enable the option to shuffle all questions and customize the 'Thank you' message.",Microsoft Forms,Productivity Suite
+"Create, Update",Compound,"Buttons, Dropdown Menus, Nested Menus, Sliders",4,,"Create a new PowerPoint presentation. Add two slides: one titled 'Introduction' and the other titled 'Process Roadmap'. On the second slide, insert the 'Basic Cycle' SmartArt graphic. Afterward, use the zoom slider to zoom in to 140%.",Microsoft PowerPoint,Productivity Suite
+"Create, Update",Compound,"Buttons, Dropdown Menus, Nested Menus, Sliders",4,,"Create a new PowerPoint presentation. Add two slides: the first slide titled 'Project Goals' and the second titled 'Implementation Timeline'. On the second slide, insert the 'Basic Timeline' SmartArt graphic. Afterward, use the zoom slider to zoom out to 50%.",Microsoft PowerPoint,Productivity Suite
+"Read, Update",Compound,"Buttons, Dropdown Menus",2,Xero Trial Account with Demo Company,"Show all expenses under review in Xero. Approve if less than $300, decline otherwise.",Xero,Accounting
+"Read, Create",Compound,"Buttons, Text Fields, Search Box",3,Xero Trial Account with Demo Company,"Create an invoice in Xero for $1,200 to Marine Systems for consulting services provided on October 15th, 2024.",Xero,Accounting
+"Read, Create",Compound,"Dropdown Menus, Text Fields, Buttons, Search Box",4,Xero Trial Account with Demo Company,Send a recurring monthly invoice in Xero of $500 to Rex Media Group starting next month for the next six months.,Xero,Accounting
+Create,Compound,"Buttons, Radio Buttons, Text Fields, Dropdown Menus",3,Xero Trial Account with Demo Company,Log a business expense of $250 in Xero for office supplies purchased on September 20th.,Xero,Accounting
+Update,Compound,"Buttons, Date Pickers, Dropdown Menus",3,Xero Trial Account with Demo Company,Go to Xero and convert October 2024 sales invoices to euros.,Xero,Accounting
+Read,Compound,"Dropdown Menus, Buttons",2,Xero Trial Account with Demo Company,Go to Xero and track time spent on Project Abby & Wells in November.,Xero,Accounting
