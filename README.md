@@ -21,8 +21,10 @@ This project aims to provide a standardized benchmark suite for evaluating the p
 ### Key Features:
 - **Comprehensive Benchmark Suite**: A collection of various prompts to evaluate web-agent performance across different domains and tasks in the enterprise setting. We have covered 15 broad domains and 26 websites(tools/apps).
 <img src="figures/Website_distribution.png" alt="Icon" width="600">
+
 - **Focus on underlying skills**: The primary focus of this benchmark is to evaluate the capabilities of agents across core web skills such as manipulating UI elements.
 <img src="figures/Skill_Type_distribution.png" alt="Icon" width="600">
+
 - **Data Made Available**: The benchmark dataset currently contains a total of 220 prompts, 65 of which are made available in this repository [here](benchmarks/e-web/e-web_benchmark_lite.csv)
 
 ### In the Pipeline/Upcoming:
