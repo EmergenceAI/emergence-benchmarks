@@ -1,0 +1,16 @@
+Salutation,First Name,Last Name,Account Name,Title,Department,Birthdate,Reports To,Lead Source,Phone,Mobile,Fax,Email,Assistant,Asst.Phone,Mailing Street,Mailing City,Mailing State/Province,Mailing Zip/Postal Code,Mailing Country
+Mr.,John,Doe,Acme Corporation,CEO,Executive,1980-05-15,-,Web,123-456-7890,123-456-0001,123-456-7899,john.doe@acme.fake,Emily Johnson,555-123-4599,123 Main St,New York,NY,10001,USA
+Ms.,Jane,Smith,Global Enterprises,CFO,Finance,1975-11-22,-,Phone Inquiry,987-654-3210,987-654-0002,987-654-3299,jane.smith@global.fake,-,-,456 Broad Ave,San Francisco,CA,94105,USA
+Mrs.,Emily,Johnson,Channel Resellers Inc,Sales Manager,Sales,1988-07-19,John Doe,Partner Referral,555-123-4567,555-123-0003,555-123-4599,emily.johnson@channel.fake,Linda Taylor,333-444-5599,789 Oak St,Dallas,TX,75201,USA
+Dr.,Michael,Brown,Future Tech Solutions,IT Director,IT,1990-02-10,Jane Smith,Purchased List,222-333-4444,222-333-0004,222-333-4499,michael.brown@future.fake,-,-,321 Innovation Blvd,Seattle,WA,98109,USA
+Mr.,Robert,Davis,Quick Start Partners,Consultant,Consulting,1982-06-30,-,Web,444-555-6666,444-555-0005,444-555-6699,robert.davis@quickstart.fake,Sophia Martinez,222-333-4499,654 Maple Ave,Boston,MA,02110,USA
+Ms.,Sophia,Martinez,Alpha Tech,Product Manager,Product,1995-08-05,Robert Davis,Other,111-222-3333,111-222-0006,111-222-3399,sophia.martinez@alpha.fake,James Wilson,999-888-7799,555 Cedar St,Los Angeles,CA,90001,USA
+Mr.,David,Garcia,Beta Solutions,Operations Lead,Operations,1978-04-25,-,Phone Inquiry,888-999-0000,888-999-0007,888-999-0099,david.garcia@beta.fake,-,-,333 Pine St,Chicago,IL,60601,USA
+Mrs.,Linda,Taylor,Gamma Corp,HR Director,HR,1985-09-10,-,Partner Referral,666-777-8888,666-777-0008,666-777-8899,linda.taylor@gamma.fake,-,-,111 Birch St,Austin,TX,73301,USA
+Ms.,Emma,Anderson,Delta Partners,Marketing Manager,Marketing,1991-03-28,Sophia Martinez,Purchased List,333-444-5555,333-444-0009,333-444-5599,emma.anderson@delta.fake,-,-,999 Walnut St,Phoenix,AZ,85001,USA
+Mr.,James,Wilson,Epsilon Services,Accountant,Accounting,1983-10-15,-,Other,999-888-7777,999-888-0010,999-888-7799,james.wilson@epsilon.fake,Laura Thomas,555-666-7799,888 Spruce Ave,Denver,CO,80201,USA
+Mrs.,Laura,Thomas,Zeta Ventures,Legal Advisor,Legal,1979-12-20,-,Web,555-666-7777,555-666-0011,555-666-7799,laura.thomas@zeta.fake,-,-,777 Elm St,Miami,FL,33101,USA
+Dr.,Samuel,Lee,Theta Innovations,Engineer,Engineering,1987-01-03,Linda Taylor,Phone Inquiry,222-111-0000,222-111-0012,222-111-0099,samuel.lee@theta.fake,-,-,666 Ash Blvd,Houston,TX,77001,USA
+Ms.,Olivia,Walker,Iota Resellers,VP of Sales,Sales,1984-07-25,Emily Johnson,Partner Referral,888-555-4444,888-555-0013,888-555-4499,olivia.walker@iota.fake,-,-,444 Poplar Ave,Philadelphia,PA,19101,USA
+Mr.,Daniel,Harris,Kappa Technologies,CTO,Technology,1992-05-12,-,Purchased List,666-444-3333,666-444-0014,666-444-3399,daniel.harris@kappa.fake,-,-,222 Redwood St,Portland,OR,97201,USA
+Mrs.,Grace,Clark,Lambda Enterprises,Business Analyst,Business,1976-11-05,-,Other,999-000-1111,999-000-0015,999-000-1199,grace.clark@lambda.fake,-,-,111 Cherry Ave,San Diego,CA,92101,USA
